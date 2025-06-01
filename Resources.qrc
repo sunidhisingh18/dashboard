@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMAGES/eva_bluetooth-fill -on (1).png</file>
+        <file>IMAGES/eva_bluetooth-fill.png</file>
+        <file>IMAGES/icn_batterytemp.png</file>
+        <file>IMAGES/icn_batterytemp_glow.png</file>
+        <file>IMAGES/icn_highbeam.png</file>
+        <file>IMAGES/icn_highbeam_glow.png</file>
+        <file>IMAGES/icn_leftindicator.png</file>
+        <file>IMAGES/icn_leftindicator_glow.png</file>
+        <file>IMAGES/icn_lowbeam.png</file>
+        <file>IMAGES/icn_lowbeam_glow.png</file>
+        <file>IMAGES/icn_rightindicator (1).png</file>
+        <file>IMAGES/icn_rightindicator _glow.png</file>
+        <file>IMAGES/icn_rightindicator.png</file>
+        <file>IMAGES/icn_sidestandenabled.png</file>
+        <file>IMAGES/icn_sidestandenabled_glow.png</file>
+        <file>IMAGES/icn_tyrepressure.png</file>
+        <file>IMAGES/icn_tyrepressure_glow (1).png</file>
+        <file>IMAGES/icn_tyrepressure_glow.png</file>
+        <file>IMAGES/network-cellular-signal-excellent-svgrepo-com.png</file>
+        <file>IMAGES/network-cellular-signal-good-svgrepo-com.png</file>
+        <file>IMAGES/network-cellular-signal-none-svgrepo-com.png</file>
+        <file>IMAGES/network-cellular-signal-ok-svgrepo-com (1).png</file>
+        <file>IMAGES/network-cellular-signal-ok-svgrepo-com.png</file>
+        <file>IMAGES/network-cellular-signal-weak-svgrepo-com.png</file>
+        <file>IMAGES/map.png</file>
+        <file>IMAGES/Music.png</file>
+        <file>IMAGES/settings.png</file>
+        <file>IMAGES/phone.png</file>
+        <file>IMAGES/petrol.png</file>
+        <file>IMAGES/home.png</file>
+        <file>IMAGES/7.png</file>
+        <file>Pages/Profile.qml</file>
+        <file>Pages/About.qml</file>
+        <file>Pages/Notification.qml</file>
+        <file>Pages/Blutooth.qml</file>
+        <file>Pages/Callings.qml</file>
+        <file>Pages/Keypad.qml</file>
+        <file>Pages/Sounds.qml</file>
+        <file>Pages/Music.qml</file>
+        <file>Pages/SystemUpdate.qml</file>
+        <file>Component/Footer.qml</file>
+        <file>Component/Navbar.qml</file>
+        <file>Component/Sidebar.qml</file>
+        <file>IMAGES/Adhaar.png</file>
+        <file>IMAGES/driving.png</file>
+        <file>IMAGES/pencard.png</file>
+        <file>IMAGES/scooty.png</file>
+        <file>IMAGES/Success.png</file>
+        <file>IMAGES/Error.png</file>
+        <file>IMAGES/Warning.png</file>
+        <file>IMAGES/Info.png</file>
+        <file>IMAGES/codex-omega.png</file>
+        <file>IMAGES/image.png</file>
+        <file>IMAGES/eva_keypad-fill.png</file>
+        <file>IMAGES/bi_mic-mute-fill.png</file>
+        <file>IMAGES/fluent_call-add-20-filled.png</file>
+        <file>IMAGES/calling.png</file>
+        <file>IMAGES/Like.png</file>
+        <file>IMAGES/Share.png</file>
+        <file>IMAGES/AddPlaylist.png</file>
+        <file>IMAGES/entypo_arrow-left.png</file>
+        <file>IMAGES/fooo.png</file>
+        <file>IMAGES/first_page.png</file>
+        <file>IMAGES/last_page.png</file>
+        <file>IMAGES/pause_paly.png</file>
+        <file>IMAGES/time.png</file>
+    </qresource>
+</RCC>
